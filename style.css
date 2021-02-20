@@ -13,3 +13,11 @@
     align-items: center;
     flex-direction: column;
 }
+
+.line{
+    width: 500px;
+    height: 12px;
+    background-color: rgb(243, 243, 243);
+    border-radius: 50px;
+    position: relative;
+}
