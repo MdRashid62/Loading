@@ -3,6 +3,7 @@
 * {
   margin: 0;
   padding: 0;
+  color-scheme: dark;
 }
 
 .main {
@@ -29,10 +30,10 @@
   left: 0;
   height: 100%;
   width: 100%;
-  background: #8e2de2;
+  background: #34ec43;
   border-radius: 50px;
   background: linear-gradient(to right, 4a00e0, 8e2de2);
-  animation: anim 2s;
+  animation: anim 4s;
 }
 
 @keyframes anim {
