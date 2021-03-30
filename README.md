@@ -1,1 +1,1 @@
-# Loading anima
+# Loading animat
