@@ -1,1 +1,1 @@
-# Loading animati
+# Loading animatio
